@@ -1,0 +1,92 @@
+[   
+    {
+        "servicePrice": 25,
+        "shopId": 1,
+        "serviceId": 1,
+        "serviceName": "Women and men haircut"
+    },
+    {
+        "servicePrice": 20,
+        "shopId": 1,
+        "serviceId": 2,
+        "serviceName": "Manicure"
+    },
+    {
+        "servicePrice": 25,
+        "shopId": 1,
+        "serviceId": 3,
+        "serviceName": "Pedicure"
+    },
+    {
+        "servicePrice": 50,
+        "shopId": 2,
+        "serviceId": 4,
+        "serviceName": "Hair straightening"
+    },
+    {
+        "servicePrice": 80,
+        "shopId": 2,
+        "serviceId": 5,
+        "serviceName": "Balayage coloring"
+    },
+    {
+        "servicePrice": 60,
+        "shopId": 2,
+        "serviceId": 6,
+        "serviceName": "Eyelash extensions"
+    },
+    {
+        "servicePrice": 30,
+        "shopId": 3,
+        "serviceId": 7,
+        "serviceName": "Eyebrow design and tinting"
+    },
+    {
+        "servicePrice": 100,
+        "shopId": 3,
+        "serviceId": 8,
+        "serviceName": "Bridal makeup"
+    },
+    {
+        "servicePrice": 70,
+        "shopId": 3,
+        "serviceId": 9,
+        "serviceName": "Hydrating facial treatment"
+    },
+    {
+        "servicePrice": 90,
+        "shopId": 4,
+        "serviceId": 10,
+        "serviceName": "Full body waxing"
+    },
+    {
+        "servicePrice": 15,
+        "shopId": 4,
+        "serviceId": 11,
+        "serviceName": "Beard trim and styling"
+    },
+    {
+        "servicePrice": 60,
+        "shopId": 4,
+        "serviceId": 12,
+        "serviceName": "Hair botox treatment"
+    },
+    {
+        "servicePrice": 35,
+        "shopId": 5,
+        "serviceId": 13,
+        "serviceName": "Gel nails with design"
+    },
+    {
+        "servicePrice": 45,
+        "shopId": 5,
+        "serviceId": 14,
+        "serviceName": "Scalp detox treatment"
+    },
+    {
+        "servicePrice": 85,
+        "shopId": 5,
+        "serviceId": 15,
+        "serviceName": "Luxury spa massage"
+    }
+]

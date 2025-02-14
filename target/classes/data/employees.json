@@ -1,0 +1,92 @@
+[
+    {
+        "employeeName": "Edward Scissorhands",
+        "description": "He has great hair cutting skills.",
+        "employeeId": 1,
+        "shopId": 1
+    },
+    {
+        "employeeName": "Sophia Rivera",
+        "description": "Expert in women's and men's haircuts, always up to date with the latest trends. She is a good person",
+        "employeeId": 2,
+        "shopId": 1
+    },
+    {
+        "employeeName": "Liam Thompson",
+        "description": "Specialist in beard trimming and styling, ensuring a sharp and polished look.",
+        "employeeId": 3,
+        "shopId": 4
+    },
+    {
+        "employeeName": "Isabella Martinez",
+        "description": "Professional in manicures and pedicures, known for her attention to detail and creativity.",
+        "employeeId": 4,
+        "shopId": 1
+    },
+    {
+        "employeeName": "Noah Delgado",
+        "description": "Skilled in hair straightening treatments, leaving clients with silky smooth hair.",
+        "employeeId": 5,
+        "shopId": 2
+    },
+    {
+        "employeeName": "Emma Scott",
+        "description": "Balayage and hair coloring expert, creating stunning natural-looking blends.",
+        "employeeId": 6,
+        "shopId": 2
+    },
+    {
+        "employeeName": "Mason Lopez",
+        "description": "Lash extension artist with a passion for enhancing natural beauty.",
+        "employeeId": 7,
+        "shopId": 2
+    },
+    {
+        "employeeName": "Olivia Brown",
+        "description": "Eyebrow design and tinting specialist, giving clients the perfect shape.",
+        "employeeId": 8,
+        "shopId": 3
+    },
+    {
+        "employeeName": "Ethan Wilson",
+        "description": "Bridal makeup artist with years of experience making brides feel their best.",
+        "employeeId": 9,
+        "shopId": 3
+    },
+    {
+        "employeeName": "Ava Hernandez",
+        "description": "Facial treatment specialist, providing deep hydration and skin care solutions.",
+        "employeeId": 10,
+        "shopId": 3
+    },
+    {
+        "employeeName": "James Carter",
+        "description": "Full body waxing professional, ensuring a smooth and painless experience.",
+        "employeeId": 11,
+        "shopId": 4
+    },
+    {
+        "employeeName": "Charlotte Ramirez",
+        "description": "Gel nails and nail art expert, bringing creativity to every manicure.",
+        "employeeId": 12,
+        "shopId": 5
+    },
+    {
+        "employeeName": "Benjamin Sanchez",
+        "description": "Hair botox treatment specialist, restoring hair\u2019s natural shine and strength.",
+        "employeeId": 13,
+        "shopId": 4
+    },
+    {
+        "employeeName": "Mia Torres",
+        "description": "Scalp detox treatment professional, helping clients maintain a healthy scalp.",
+        "employeeId": 14,
+        "shopId": 5
+    },
+    {
+        "employeeName": "Lucas Ramirez",
+        "description": "Luxury spa massage therapist, offering deep relaxation techniques.",
+        "employeeId": 15,
+        "shopId": 5
+    }
+]

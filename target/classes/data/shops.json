@@ -1,0 +1,13 @@
+[
+    {
+        "shopId": 1,
+        "shopName": "Great Hair",
+        "managerId": 1,
+        "shopPhoneNumber": "111 222 333",
+        "adress": "15 Main Street",
+        "openingTime": "8:00 am",
+        "closingTime": "17:00 pm",        
+        "profit": 0
+        
+    }
+]

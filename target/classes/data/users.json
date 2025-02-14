@@ -1,0 +1,74 @@
+[
+    {
+        "idUser": 1,
+        "userName": "Bob Esponja",
+        "phoneNumber": "123 455 66",
+        "password": "password",
+        "email": "bobEsp@uwu.co",
+        "isManager": true
+    },
+    {
+        "idUser": 2,
+        "password": "securePass",
+        "phoneNumber": "987 654 32",
+        "isManager": false,
+        "userName": "Patricio Estrella",
+        "email": "patEst@uwu.co"
+    },
+    {
+        "idUser": 3,
+        "password": "clarinete123",
+        "phoneNumber": "555 888 99",
+        "isManager": false,
+        "userName": "Calamardo Tentaculos",
+        "email": "calTen@uwu.co"
+    },
+    {
+        "idUser": 4,
+        "password": "holi",
+        "phoneNumber": "66 66 77",
+        "isManager": false,
+        "userName": "Arenita Mejillas",
+        "email": "areMej@uwu.co"
+    },
+    {
+        "idUser": 5,
+        "password": "hairMaster",
+        "phoneNumber": "789 456 123",
+        "isManager": true,
+        "userName": "Carlos Romero",
+        "email": "carRom@uwu.co"
+    },
+    {
+        "idUser": 6,
+        "password": "styleGuru",
+        "phoneNumber": "159 753 486",
+        "isManager": true,
+        "userName": "Elena Mart�nez",
+        "email": "eleMar@uwu.co"
+    },
+    {
+        "idUser": 7,
+        "password": "shineBright",
+        "phoneNumber": "852 741 963",
+        "isManager": true,
+        "userName": "Fernando L�pez",
+        "email": "ferLop@uwu.co"
+    },
+    {
+        "idUser": 8,
+        "password": "glamour2024",
+        "phoneNumber": "963 258 741",
+        "isManager": true,
+        "userName": "Sof�a Delgado",
+        "email": "sofDel@uwu.co"
+    },
+    {
+        "idUser": 9,
+        "password": "iamhungry",
+        "phoneNumber": "321 654 987",
+        "isManager": false,
+        "userName": "Alicia Fern�ndez",
+        "email": "aliFer@uwu.co"
+    }
+]
